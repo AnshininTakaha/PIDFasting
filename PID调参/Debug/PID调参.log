@@ -1,0 +1,4 @@
+﻿  Optimization.cpp
+h:\代码和资料\vs代码\pid调参\pid调参\optimization.cpp(40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\代码和资料\vs代码\pid调参\pid调参\optimization.cpp(41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  PID调参.vcxproj -> H:\代码和资料\VS代码\PID调参\Debug\PID调参.exe
